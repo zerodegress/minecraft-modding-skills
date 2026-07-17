@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Pack Modding"
+  short_description: "Create and debug Java Edition data packs"
+  default_prompt: "Use $data-pack-modding to create a version-compatible Java Edition data pack."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resource Pack Modding"
+  short_description: "Create and debug Java Edition resource packs"
+  default_prompt: "Use $resource-pack-modding to create a version-compatible Java Edition resource pack."
